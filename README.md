@@ -22,11 +22,3 @@ My name is Gabriel Batista I'm remotly working from Brazil, and I'm:
 <a href="https://github.com/GBatist/GBatist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBatist&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-
-<!-- ## 🐍 Like The Good Old Times -->
-# 
-![Snake animation](https://github.com/GBatist/GBatist/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<p align='center'><i>Be More, Do Better 🔥 <br/>and Have a FANTASTIC Life</i></p>
