@@ -19,10 +19,10 @@ My name is Gabriel Batista I'm remotely working from Brazil, and I'm:
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/BatistaGabriel/BatistaGabriel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BatistaGabriel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats" />
+<a href="https://github.com/GBatist/GBatist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GBatist&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats" />
 </a>
 
-<a href="https://github.com/BatistaGabriel/BatistaGabriel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatistaGabriel&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/GBatist/GBatist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBatist&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
