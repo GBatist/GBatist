@@ -4,7 +4,7 @@ My name is Gabriel Batista I'm remotely working from Brazil, and I'm:
 <br />
 - Web developer focused on the .Net stack and learning react.
 - Currently working at the Transportation Division of Trimble Inc.
-- Tutor of a very unique pug called Milka.
+- Owner of a very unique pug called Milka.
 - Interested in: 
   - secure web development.
   - web hacking. 🐱‍💻
